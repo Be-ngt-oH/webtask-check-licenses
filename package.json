@@ -1,0 +1,7 @@
+{
+  "name": "webtask-check-licenses",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-fetch": "^2.1.2"
+  }
+}
